@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chapter32_singleInstance_test</string>
+    <string name="function_txt">SingleInstance测试</string>
+    <string name="btnstart_txt">启动SingleInstance Activity</string>
+</resources>
